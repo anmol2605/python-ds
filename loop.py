@@ -1,7 +1,7 @@
 from turtle import*
 speed('slowest')
 pencolor("red")
-pensize(3)
+pensize(10)
 for i in range(6,40,5):
     fd(80)
     lt(360/7)

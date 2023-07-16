@@ -1,5 +1,5 @@
 from turtle import *
-speed('fastest')
+speed('slow')
 pencolor('yellow')
 bgcolor('#303030')
 pensize(2)
