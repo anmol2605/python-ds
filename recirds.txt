@@ -1,0 +1,18 @@
+Student details
+alex : 88
+
+Student details
+anmol : 91
+
+Student details
+alex : 88
+arun : 45
+rajesh : 59
+suresh : 98
+ali : 66
+
+Student details
+anmol : 91
+saqib : 84
+ansh : 70
+
